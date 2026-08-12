@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Siam Offical",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Welcome Aix Server ",
+        "Member Siam,Rifat,Tamzid ",
+        "add My Server https://discord.com/channels/1536961554304606230/1536961555298648154 "
       ]
     },
     "chat-log": true,
