@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "BotServer-KWJ0.aternos.me",
+    "port": 59705,
     "version": "1.20.1",
     "try-creative": false
   },
